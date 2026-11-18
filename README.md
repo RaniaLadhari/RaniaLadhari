@@ -1,68 +1,101 @@
-# Bonjour, je suis Rania Ladhari 👋
+[README.md](https://github.com/user-attachments/files/35054095/README.md)
+<div align="center">
 
-🎓 Étudiante en **Licence Systèmes Embarqués** à l'ISI (Ariana, Tunisie)
-🔌 Passionnée par l'**IoT**, les **microcontrôleurs** et l'**IA embarquée**
-🏅 Certifiée Cisco : *IoT industriel et systèmes de contrôle dans la fabrication* (2026)
-📫 Rania.ladhari9@gmail.com
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Rania%20Ladhari&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Embedded%20Systems%20%7C%20IoT%20%7C%20Edge%20AI&descSize=17&descAlignY=58" width="100%"/>
 
----
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=800&color=2C9AB7&center=true&vCenter=true&width=600&lines=%C3%89tudiante+en+Syst%C3%A8mes+Embarqu%C3%A9s+%40+ISI+Ariana;Microcontr%C3%B4leurs+%E2%80%A2+IoT+%E2%80%A2+Vision+par+ordinateur;Du+capteur+%C3%A0+l'application+mobile" alt="Typing SVG" /></a>
 
-## 🛠️ Compétences
+<a href="mailto:Rania.ladhari9@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Localisation-Tunisie-2C5364?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ouverte_aux-Stages_%26_PFE-2E7D32?style=for-the-badge"/>
 
-**Langages**
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![VHDL](https://img.shields.io/badge/VHDL-555555?style=flat)
-
-**Embarqué & matériel**
-![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi%204-A22846?style=flat&logo=raspberrypi&logoColor=white)
-![Protocoles](https://img.shields.io/badge/UART%20%7C%20I2C%20%7C%20SPI%20%7C%20CAN%20%7C%20MQTT-2E7D32?style=flat)
-
-**IA & vision**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO--Pose-111F68?style=flat)
-
-**Outils**
-![Linux](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![STM32CubeMX](https://img.shields.io/badge/STM32CubeMX-03234B?style=flat)
-![Keil](https://img.shields.io/badge/Keil-394A6D?style=flat)
-![Proteus](https://img.shields.io/badge/Proteus-1F5FAD?style=flat)
-![ModelSim](https://img.shields.io/badge/ModelSim-0071C5?style=flat)
+</div>
 
 ---
 
-## 🚀 Projets
+## À propos
 
-| Projet | Description | Technologies |
-|---|---|---|
-| 🧍 **Reconnaissance de postures sur Raspberry Pi 4** | Points clés YOLO11-Pose + classification Random Forest de 4 postures, détection temps réel par caméra (F1-macro 0,87) | YOLO11, OpenCV, scikit-learn, NCNN |
-| 🏭 **COFAT Sense** | Application Android de supervision et de maintenance préventive d'une machine industrielle (score de santé, module d'aide à la décision) | Java, SQLite, Android |
-| 🚕 **Taxi Aajeja** | Application Android de réservation de taxi avec synchronisation temps réel | Java, Firebase |
-| 💡 **Contrôle LED par PWM** | Configuration des timers STM32 pour générer du PWM, simulation puis test sur carte | C, STM32, Proteus |
-| 🔲 **Systèmes numériques en VHDL** | Multiplexeurs, registres à décalage et testbenchs | VHDL, ModelSim |
+Étudiante en **Licence Systèmes Embarqués** à l'Institut Supérieur d'Informatique (ISI, Ariana). Je conçois des systèmes complets, **du matériel au logiciel** : programmation de microcontrôleurs, protocoles de communication, IA embarquée sur Raspberry Pi et applications mobiles connectées.
 
----
-
-## 💼 Expérience
-
-- **COFAT**, stagiaire (août 2026) : superviseur d'alertes de maintenance préventive
-- **Câbval Tunisie**, stagiaire (juillet 2026) : tests automatisés de faisceaux électriques
+- **Actuellement** : approfondissement de l'IA embarquée (YOLO, optimisation NCNN sur Raspberry Pi)
+- **Expérience** : stages chez **COFAT** (supervision de maintenance industrielle) et **Câbval Tunisie** (tests automatisés de faisceaux électriques)
+- **Certification** : Cisco Networking Academy, *IoT industriel et systèmes de contrôle dans la fabrication* (2026)
+- **Langues** : Arabe · Français · Anglais · Allemand (notions)
 
 ---
 
-## 🌍 Langues
+## Stack technique
 
-Arabe (langue maternelle) · Français (courant) · Anglais (courant) · Allemand (débutante)
+<div align="center">
+
+**Langages**<br>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java&theme=dark"/>
+<img src="https://img.shields.io/badge/VHDL-4A4A4A?style=for-the-badge" height="48"/>
+
+**Embarqué & IoT**<br>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark"/>
+<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" height="48"/>
+
+**IA & vision**<br>
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,sklearn&theme=dark"/>
+
+**Outils & plateformes**<br>
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,androidstudio,firebase,flask,sqlite,git,github&theme=dark"/>
+
+<sub>Protocoles : UART · I2C · SPI · CAN · MQTT — Outils : STM32CubeMX · Keil · Proteus · ModelSim</sub>
+
+</div>
 
 ---
 
-## 📊 Statistiques GitHub
+## Projets à la une
 
-![Stats](https://github-readme-stats.vercel.app/api?username=RaniaLadhari&show_icons=true&theme=default)
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [COFAT Sense](https://github.com/RaniaLadhari/Superviseur-de-maintenance-preventive-Flask-Android)
+Superviseur de maintenance préventive pour tables de contrôle électrique : comptage des cycles via Arduino, checklists, score de santé machine et module d'aide à la décision.
+
+`Flask` `Android` `Java` `SQLite` `Arduino`
+
+</td>
+<td width="50%" valign="top">
+
+### Reconnaissance de postures — Raspberry Pi 4
+Détection de 17 points clés (YOLO11-Pose) puis classification de 4 postures en temps réel. **F1-macro 0,87** sur un dataset de 5 444 images, modèle optimisé NCNN.
+
+`YOLO11` `OpenCV` `scikit-learn` `Raspberry Pi`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Taxi Aajeja
+Application Android de réservation de taxi avec synchronisation des données en temps réel.
+
+`Android` `Java` `Firebase`
+
+</td>
+<td width="50%" valign="top">
+
+### STM32 PWM & conception VHDL
+Génération de signaux PWM par timers STM32 (simulation Proteus, test sur carte) et modules numériques VHDL avec testbenchs.
+
+`C` `STM32` `VHDL` `ModelSim`
+
+</td>
+</tr>
+</table>
+
+---
+
+## Statistiques GitHub
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=RaniaLadhari&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2C9AB7&icon_color=2C9AB7&text_color=C9D1D9&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaniaLadhari&layout=compact&hide_border=true&bg_color=0D1117&title_color=2C9AB7&text_color=C9D1D9" height="165"/>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%"/>
