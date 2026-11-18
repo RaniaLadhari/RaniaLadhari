@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/35054095/README.md)
+[README (2).md](https://github.com/user-attachments/files/35054320/README.2.md)
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Rania%20Ladhari&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Embedded%20Systems%20%7C%20IoT%20%7C%20Edge%20AI&descSize=17&descAlignY=58" width="100%"/>
@@ -95,7 +95,7 @@ Génération de signaux PWM par timers STM32 (simulation Proteus, test sur carte
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=RaniaLadhari&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2C9AB7&icon_color=2C9AB7&text_color=C9D1D9&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaniaLadhari&layout=compact&hide_border=true&bg_color=0D1117&title_color=2C9AB7&text_color=C9D1D9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaniaLadhari&layout=compact&hide=html,css&hide_border=true&bg_color=0D1117&title_color=2C9AB7&text_color=C9D1D9" height="165"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%"/>
